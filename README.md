@@ -14,11 +14,12 @@ To analyze pollution patterns across countries, cities, and regions using Python
 
 ## Analysis Performed
 - Data cleaning and preprocessing
-- Top polluted countries
-- Top polluted cities
-- Pollution trend over years
-- Regional pollution comparison
-- Correlation analysis of pollutants
+- ![Top polluted countries]<img width="1484" height="742" alt="Top 10 Most Polluted Countries (PM2 5)" src="https://github.com/user-attachments/assets/ab573409-7863-40f5-9b28-a56367c44812" />
+- ![Top polluted cities]<img width="1287" height="715" alt="Top 10 Most Polluted Cities (PM2 5)" src="https://github.com/user-attachments/assets/fe327c06-6265-48f2-99e2-372bd1a96940" />
+- ![Pollution trend over years]<img width="1165" height="677" alt="Global PM2 5 Pollution Trend Over Years" src="https://github.com/user-attachments/assets/2d56bc5b-1cf4-47f3-8e38-0bb84defdd9f" />
+- ![Regional pollution comparison]<img width="1324" height="712" alt="Worst WHO Region (PM2 5)" src="https://github.com/user-attachments/assets/1bc80b75-af32-401c-a60b-f6c40a96ea17" />
+- ![Correlation analysis of pollutants]<img width="933" height="711" alt="Correlation" src="https://github.com/user-attachments/assets/b2308b1f-d739-47f6-b804-149b19295343" />
+
 
 ## Key Insights
 - Afghanistan shows the highest average PM2.5 pollution levels.

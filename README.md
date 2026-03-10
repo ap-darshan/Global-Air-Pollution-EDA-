@@ -2,6 +2,15 @@
 
 This project performs Exploratory Data Analysis (EDA) on global air pollution data provided by the World Health Organization.
 
+## Project Structure
+
+Global-Air-Pollution-EDA  
+│  
+├── Global Air Pollution Analysis.ipynb  
+├── who_aap_2021_v9_11august2022.xlsx  
+├── images  
+└── README.md
+
 ## Objective
 To analyze pollution patterns across countries, cities, and regions using Python.
 
